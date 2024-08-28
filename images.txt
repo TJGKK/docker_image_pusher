@@ -1,1 +1,1 @@
-apachepulsar/pulsar-dashboard:latest
+apachepulsar/pulsar-manager:v0.3.0
