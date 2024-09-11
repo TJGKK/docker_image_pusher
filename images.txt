@@ -1,1 +1,1 @@
---platform=linux/arm64 clickhouse/clickhouse-server:23.8.14.6
+--platform=linux/arm64 clickhouse/clickhouse-server:22.5.1.2079
