@@ -1,1 +1,1 @@
---platform=linux/amd64 rockylinux/rockylinux:8
+--platform=linux/amd64 clickhouse/clickhouse-server:23.8.14.6
