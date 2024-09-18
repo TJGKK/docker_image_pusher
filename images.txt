@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/redis:6.2
+--platform=linux/arm64 ubuntu/redis:6.0-22.04_beta
