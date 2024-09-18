@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/mysql:5.7.43
+--platform=linux/arm64 bitnami/redis:6.2
