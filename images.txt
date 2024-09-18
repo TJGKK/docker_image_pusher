@@ -1,1 +1,1 @@
---platform=linux/arm64 clickhouse/clickhouse-server:22.5.1.2079
+--platform=linux/arm64 bitnami/mysql:5.7.43
