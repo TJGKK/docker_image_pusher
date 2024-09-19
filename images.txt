@@ -1,1 +1,1 @@
---platform=linux/arm64 ubuntu/redis:6.0-22.04_beta
+--platform=linux/amd64 alibabadragonwell/dragonwell:8-ubuntu
