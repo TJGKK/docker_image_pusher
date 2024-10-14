@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:14-bullseye
+--platform=linux/arm64 jetty:9.4.53-jre17
