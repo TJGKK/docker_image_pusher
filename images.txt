@@ -1,1 +1,1 @@
---platform=linux/amd64 alibabadragonwell/dragonwell:17.0.10.0.11.7-standard-ga-ubuntu
+--platform=linux/amd64 nginx:1.21.6
