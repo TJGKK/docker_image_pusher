@@ -1,1 +1,1 @@
---platform=linux/arm64 prom/prometheus:v2.36.2
+--platform=linux/arm64 dyrnq/kube-state-metrics:v2.3.0
