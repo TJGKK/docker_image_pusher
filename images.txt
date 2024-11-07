@@ -1,1 +1,1 @@
---platform=linux/arm64 dyrnq/kube-state-metrics:v2.3.0
+--platform=linux/amd64 webfunny/webfunny_monitor:3.2.22
