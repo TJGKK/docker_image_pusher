@@ -1,1 +1,1 @@
---platform=linux/amd64 dockette/nodejs:v14
+--platform=linux/amd64 fauria/vsftpd:latest
