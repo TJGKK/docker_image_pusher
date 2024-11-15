@@ -1,1 +1,1 @@
---platform=linux/arm64 dyrnq/kube-state-metrics:v2.5.0
+--platform=linux/arm64 grafana/grafana:9.5.21
