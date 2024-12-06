@@ -1,1 +1,1 @@
---platform=linux/amd64 getmeili/meilisearch:v1.11.0
+--platform=linux/amd64 long2ice/meilisync:main
