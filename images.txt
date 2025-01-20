@@ -1,1 +1,1 @@
---platform=linux/arm64 dimitri/pgcopydb:v0.17
+--platform=linux/amd64 dimitri/pgcopydb:v0.16
