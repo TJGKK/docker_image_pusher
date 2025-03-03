@@ -1,1 +1,1 @@
---platform=linux/amd64 starrocks/fe-ubuntu:3.4.0
+--platform=linux/amd64 starrocks/be-ubuntu:3.4.0
