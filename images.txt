@@ -1,1 +1,1 @@
---platform=linux/amd64 bitnami/sonarqube:25
+--platform=linux/amd64 bitnami/postgresql:latest
