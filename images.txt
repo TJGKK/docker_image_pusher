@@ -1,1 +1,1 @@
---platform=linux/amd64 bitnami/sonarqube:9.9.8
+--platform=linux/amd64 bitnami/elasticsearch:7.17.10
