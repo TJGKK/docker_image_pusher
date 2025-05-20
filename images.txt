@@ -1,1 +1,1 @@
---platform=linux/arm64 python:3.9-slim
+--platform=linux/amd64 dyrnq/rocketmq:5.1.3-jdk8-noble
