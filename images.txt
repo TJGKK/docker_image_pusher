@@ -1,1 +1,1 @@
---platform=linux/amd64 dyrnq/rocketmq:5.1.3-jdk8-noble
+--platform=linux/arm64 dyrnq/rocketmq:5.1.3-jdk8-noble
