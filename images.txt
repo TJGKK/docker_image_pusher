@@ -1,1 +1,1 @@
---platform=linux/arm64 redis:6.0.9
+--platform=linux/arm64 houwm/jdk8:arm64
