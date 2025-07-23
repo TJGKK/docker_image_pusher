@@ -1,1 +1,2 @@
---platform=linux/arm64 houwm/jdk8:arm64
+--platform=linux/arm64 percona/percona-server-mongodb:4.4.24-multi
+--platform=linux/amd64 percona/percona-server-mongodb:4.4.24-multi
