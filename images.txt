@@ -1,2 +1,2 @@
---platform=linux/amd64 percona/percona-server:8.0.42
---platform=linux/arm64 percona/percona-server:8.0.42
+--platform=linux/amd64 percona/percona-server-mongodb:5.0.24-multi
+--platform=linux/arm64 percona/percona-server-mongodb:5.0.24-multi
