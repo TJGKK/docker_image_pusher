@@ -1,2 +1,2 @@
---platform=linux/amd64 kartoza/postgis:17-3.5
---platform=linux/arm64 kartoza/postgis:17-3.5
+--platform=linux/amd64 percona/percona-server:8.0.42
+--platform=linux/arm64 percona/percona-server:8.0.42
