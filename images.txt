@@ -1,2 +1,2 @@
---platform=linux/amd64 percona/percona-server-mongodb:5.0.24-multi
---platform=linux/arm64 percona/percona-server-mongodb:5.0.24-multi
+--platform=linux/amd64 bitnami/redis:6.2
+--platform=linux/arm64 bitnami/redis:6.2
