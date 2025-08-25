@@ -1,2 +1,1 @@
---platform=linux/amd64 bitnami/redis:6.2
---platform=linux/arm64 bitnami/redis:6.2
+--platform=linux/arm64 openeuler/openeuler:20.03-lts-sp3
