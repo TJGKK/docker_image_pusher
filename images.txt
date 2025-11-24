@@ -1,1 +1,4 @@
---platform=linux/amd64 redis:6.2
+--platform=linux/amd64 docker.io/sealerio/kubernetes:v1-20-4-sealerio-2
+--platform=linux/amd64 docker.io/sealerio/kubernetes:v1-22-15-sealerio-2
+--platform=linux/arm64 docker.io/sealerio/kubernetes:v1-20-4-sealerio-2
+--platform=linux/arm64 docker.io/sealerio/kubernetes:v1-22-15-sealerio-2
