@@ -1,1 +1,1 @@
---platform=linux/amd64 emqx:5.4.1
+--platform=linux/amd64 dimitri/pgloader:latest
