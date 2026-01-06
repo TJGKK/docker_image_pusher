@@ -1,1 +1,1 @@
---platform=linux/amd64 kartoza/pg-backup:17-3.5--v2025.09.07
+--platform=linux/arm64 kartoza/pg-backup:17-3.5--v2025.09.07
