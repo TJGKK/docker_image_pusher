@@ -1,1 +1,1 @@
---platform=linux/arm64 mem0/mem0-api-server:latest
+--platform=linux/amd64 mariadb:10.8
