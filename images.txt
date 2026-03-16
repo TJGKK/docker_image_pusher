@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/openclaw/openclaw:latest
+--platform=linux/arm64 ghcr.io/openclaw/openclaw:latest
