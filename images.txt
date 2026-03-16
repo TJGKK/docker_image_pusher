@@ -1,1 +1,1 @@
---platform=linux/amd64 openspug/spug:latest
+--platform=linux/amd64 ghcr.io/openclaw/openclaw:latest
