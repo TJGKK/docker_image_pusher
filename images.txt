@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/spark-tts/spark-tts:latest
+--platform=linux/arm64 dev00xx00robot/sparktts:20250620-macos-arm64
