@@ -1,1 +1,1 @@
---platform=linux/amd64 n8nio/n8n:2.13.3
+--platform=linux/arm64 ghcr.io/spark-tts/spark-tts:latest
