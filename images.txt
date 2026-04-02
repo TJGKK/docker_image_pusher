@@ -1,1 +1,1 @@
---platform=linux/arm64 dev00xx00robot/sparktts:20250620-macos-arm64
+--platform=linux/amd64 fauria/vsftpd
