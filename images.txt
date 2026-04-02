@@ -1,1 +1,1 @@
---platform=linux/amd64 fauria/vsftpd
+--platform=linux/amd64 fauria/vsftpd:latest
