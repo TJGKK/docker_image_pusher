@@ -1,1 +1,1 @@
---platform=linux/amd64 fauria/vsftpd:latest
+--platform=linux/amd64 nicolaka/netshoot:latest
