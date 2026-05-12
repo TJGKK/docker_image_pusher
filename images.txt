@@ -1,1 +1,1 @@
---platform=linux/amd64 nicolaka/netshoot:latest
+--platform=linux/amd64 zlmediakit/zlmediakit:master_py
