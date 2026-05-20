@@ -1,1 +1,1 @@
---platform=linux/amd64 zlmediakit/zlmediakit:master_py
+--platform=linux/amd64 envoyproxy/envoy:tools-v1.24-latest
