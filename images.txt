@@ -1,1 +1,1 @@
---platform=linux/amd64 node:20-alpine
+--platform=linux/amd64 node:20.20.2
