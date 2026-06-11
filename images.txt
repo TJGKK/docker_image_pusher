@@ -1,1 +1,1 @@
---platform=linux/amd64 singchia/frontier:v1.2.4
+--platform=linux/amd64 singchia/frontier:1.2.5
