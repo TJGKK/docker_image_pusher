@@ -1,1 +1,1 @@
---platform=linux/amd64 envoyproxy/envoy:v1.24-latest
+--platform=linux/amd64 node:20-slim
