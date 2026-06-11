@@ -1,1 +1,1 @@
---platform=linux/amd64 prom/prometheus:v2.54.0
+--platform=linux/amd64 searxng/searxng:latest
