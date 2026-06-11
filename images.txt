@@ -1,1 +1,1 @@
---platform=linux/amd64 grafana/tempo:2.5.0
+--platform=linux/amd64 grafana/loki:3.4.0
