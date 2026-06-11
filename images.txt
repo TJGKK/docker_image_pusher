@@ -1,1 +1,1 @@
---platform=linux/amd64 grafana/grafana-oss:11.1.4
+--platform=linux/amd64 qdrant/qdrant:v1.11.3
