@@ -1,1 +1,1 @@
---platform=linux/amd64 searxng/searxng:latest
+--platform=linux/amd64 singchia/frontier:v1.2.4
