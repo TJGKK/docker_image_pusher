@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:8.0
+--platform=linux/amd64 grafana/loki:2.5.0
