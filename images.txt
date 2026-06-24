@@ -1,1 +1,1 @@
---platform=linux/amd64 grafana/loki:2.5.0
+--platform=linux/amd64 ascentstream/asp-console-server-community-edition:v20250714
