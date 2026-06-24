@@ -1,1 +1,1 @@
---platform=linux/amd64 ascentstream/asp-console-server-community-edition:v20250714
+--platform=linux/amd64 ascentstream/asp-console-front-community-edition:v20250714
