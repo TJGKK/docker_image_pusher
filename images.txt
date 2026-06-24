@@ -1,1 +1,1 @@
---platform=linux/amd64 prom/prometheus:v2.41.0
+--platform=linux/amd64 apachepulsar/pulsar:3.0.12
