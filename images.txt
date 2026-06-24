@@ -1,1 +1,1 @@
---platform=linux/amd64 mysql:8.4.3
+--platform=linux/amd64 prom/prometheus:v2.41.0
