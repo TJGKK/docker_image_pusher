@@ -1,1 +1,1 @@
---platform=linux/amd64 apachepulsar/pulsar:3.0.12
+--platform=linux/amd64 ascentstream/asp-pulsar-sample:v20250714
