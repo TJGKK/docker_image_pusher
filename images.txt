@@ -1,1 +1,1 @@
---platform=linux/amd64 kubesphere/kube-rbac-proxy:v0.8.0
+--platform=linux/amd64 n8nio/n8n:2.32.7
